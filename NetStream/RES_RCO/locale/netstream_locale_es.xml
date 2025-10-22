@@ -121,7 +121,7 @@
 
   <string src="Seleccionar Calidad" id="msg_quality_select_dialog_title" />
 
-  <string src="introduce la ID de DLsite del trabajo." id="msg_hvdb_add_entry" />
+  <string src="Ingresa la ID de DLsite del trabajo." id="msg_hvdb_add_entry" />
   <string src="ID no encontrado en la base de datos." id="msg_hvdb_error_id_not_exist" />
 
   <string src="Ha ocurrido un error en PlayStation™Network. La sincronización de datos en la nube no estará disponible. Si has activado la opción de sincronización en la nube, reinicia esta aplicación antes de usarla." id="msg_error_psn_connection" />
